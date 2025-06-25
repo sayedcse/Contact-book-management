@@ -1,5 +1,5 @@
 # CLI contact book app
-##### This is basic cli project writtern in __python__ 😊
+##### This is basic cli project writtern in **python** 😊
 
 - [x] Tt has features like
 1. Add Contact 
@@ -7,4 +7,4 @@
 3. Search Contact
 4. Remove Contact
 
-- It also handles _errors_ and prints _invalid_ input prompt messeges.
+- It also handles ***errors*** and prints ***invalid*** input prompt messeges.
