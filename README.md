@@ -1,5 +1,5 @@
 # CLI contact book app
-##### This is basic cli project writtern in **python** 😊
+##### This is basic cli project writtern in ***python*** 😊
 
 - [x] Tt has features like
 1. Add Contact 
